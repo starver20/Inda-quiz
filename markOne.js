@@ -122,6 +122,8 @@ play(qna1);
 if (score === 5) {
   log(chalk.greenBright('\nCongrats you made it to the second level\n'));
   log('x------------x-------------x');
+  log('x------------x-------------x');
+  log('x------------x-------------x');
 
   log(chalk.blue('\nSet 2\n'));
 
