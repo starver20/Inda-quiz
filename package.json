@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "nodemon": "^2.0.7",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "markone",
+  "version": "1.0.0",
+  "main": "markOne.js",
+  "scripts": {
+    "start": "nodemon markOne.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
